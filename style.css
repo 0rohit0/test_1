@@ -1,0 +1,79 @@
+body{
+    background: url("../intern/background.jpg") repeat,no-repeat;
+    
+}
+#whole-body{
+    /* background: url("../intern/image/images2.jpg") no-repeat center center; */
+    background-color: rgb(248, 247, 244);
+    
+}
+#titled{
+    background-color:rgba(235, 224, 212, 0.062);
+}
+
+#alert{
+    background-color: rgb(163, 42, 42);
+    padding: 2%;
+    margin-left: 9%;
+    margin-right: 8%;
+    text-align: center;
+    font-size: large;
+    color: white;
+}
+#alert p{
+    margin-bottom: 0;
+}
+.alert alert-danger rounded{
+    background-color: red;
+}
+/* .row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -43px;
+    margin-left: 0px;
+} */
+#box{
+    margin-top: 0;
+    padding-left: 10%;
+    padding-right: 6%;
+    background-color: #ece2e2;
+}
+#aldi{
+    color:rgba(243, 6, 6, 0.925);
+    font-size: 20px;
+    padding-top: 19px;
+    padding-bottom: 10px;
+}
+
+#boald{
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+#para{
+    font-size: 15px;
+    padding-left: 60px;
+    padding-right: 61px;
+}
+
+.whole{
+    background: rgb(218, 228, 238);
+}
+.p-3{
+    color:rgb(72, 72, 253);
+    float:right;
+}
+.parent{
+    position: relative;
+}
+.c1 {
+    position: absolute;
+    top: -12%;
+    right: 70%;
+}
+.c2 {
+    position: absolute;
+    top: 33%;
+    right: 42%;
+}
